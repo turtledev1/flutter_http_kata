@@ -1,4 +1,4 @@
-# flutter_http
+# flutter_http_kata
 
 A new Flutter project.
 

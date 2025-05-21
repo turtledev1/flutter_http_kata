@@ -1,6 +1,6 @@
 {
-    "name": "flutter_http",
-    "short_name": "flutter_http",
+    "name": "flutter_http_kata",
+    "short_name": "flutter_http_kata",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
